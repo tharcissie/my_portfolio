@@ -1,6 +1,8 @@
-
+*{
+    font-family: 'Josefin Sans', sans-serif;
+}
 .navbar{
-    background-color:  rgb(45, 45, 77);
+    background-color:  #263238;
 }
 .navbar-brand{
     font-weight: 600;
@@ -24,7 +26,8 @@
 }
 
 .profile{
-    background: url(cover.jpg);
+    background: url(../media/cover.jpg);
+    
     
 }
 .profile .text-responsive{
@@ -37,16 +40,19 @@
     text-shadow: 1px 1px rgb(129, 127, 127);
 }
 .body{
-    background-color: rgb(48, 48, 95);
+    background-color: #37474F;
 }
 .experience{
     border:1px solid orangered;
 }
 .project{
-    background:rgb(58, 58, 104);;
+    background:#455A64;
 }
 li{
     list-style-type: none;
+}
+.card-title{
+    font-weight:600 ;
 }
 
 
