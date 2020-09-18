@@ -12,11 +12,11 @@
  `git clone https://github.com/tharcissie/my_portfolio.git` <br>
  After cloning it open it in your code editor and run it in your browser
  
- ### Link to live site on GitHub Pages
+ ## Link to live site on GitHub Pages
  https://github.com/tharcissie/my_portfolio.git <br>
  https://tharcissie.github.io/my_portfolio/
  
- ### Licence
+ ## Licence
  MIT License
 
 Copyright (c) 2020 Tharcissie Idufashe
